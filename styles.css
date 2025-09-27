@@ -1,0 +1,176 @@
+/* MAIN PAGE */
+body{
+  background-color: #576CA8;
+}
+
+#title {
+  background-color: #274690;
+  display: flex;                
+  justify-content: center;      
+  align-items: center;          
+  height: 100px;                   
+  border-radius: 10px; 
+  border: 2px solid;
+  border-color: #1B264F;
+  box-shadow: 10px 10px 10px;
+  margin-bottom: 20px;
+
+}
+
+#navigation_bar {
+  background-color:#274690;
+  text-align: center;
+  font-size: medium;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #1B264F;
+  box-shadow: 10px 10px 10px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+#navigation_bar a {
+  font-family: "Nabla", system-ui;
+  font-size: 24px;
+  text-decoration: none;             
+  color: #FFD700;         
+  margin: 0 110px; 
+}
+
+.nabla-text {
+  font-family: "Nabla", system-ui;
+  /* font-optical-sizing: auto;*/
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+}
+
+.homescreen_img {
+  display: flex;
+  justify-content: center;
+}
+
+#image_one {
+  width: 400px;
+  height: 480px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 30px 30px 30px black;
+  margin-bottom: 100px;
+}
+
+footer {
+  position: fixed;      
+  bottom: 0;
+  left: 0;
+  width: 100%;            
+  text-align: center;     
+  padding: 0.5rem 0;
+  background: #2a3d8f;    
+      
+}
+
+
+/* BUTTONS */
+.button_group {
+  position: fixed;   
+  bottom: 20px;
+  left: 0;
+  width: 100%;       
+  display: flex;
+  justify-content: space-around;
+}
+.button_group button {
+  flex: 1;           
+  margin: 0 20px;    
+  max-width: 200px;
+  cursor: pointer;
+}
+
+#button_one {
+  background-color:#274690;
+  text-align: center;
+  font-size: medium;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #1B264F;
+  box-shadow: 10px 10px 10px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+#button_two {
+  background-color:#274690;
+  text-align: center;
+  font-size: medium;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #1B264F;
+  box-shadow: 10px 10px 10px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+#button_three {
+  background-color:#274690;
+  text-align: center;
+  font-size: medium;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #1B264F;
+  box-shadow: 10px 10px 10px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.orbitron-text {
+  font-family: "Orbitron", sans-serif;
+  /*font-optical-sizing: auto; */
+  font-weight: 400;
+  font-style: normal;
+  color: #FFD700;
+}
+
+
+/* INVERSION */
+.red-theme {
+  background-color: #8b0000;
+}
+
+.red-theme #title,
+.red-theme #navigation_bar,
+.red-theme #button_one,
+.red-theme #button_two,
+.red-theme #button_three, .red-theme footer{
+  background-color: #b22222; 
+  border-color: #660000;
+}
+
+
+.green-theme {
+  background-color: #0f83027b;
+}
+
+.green-theme #title,
+.green-theme #navigation_bar,
+.green-theme #button_one,
+.green-theme #button_two,
+.green-theme #button_three,
+.green-theme footer {
+  background-color: #08a212b3; 
+  border-color: #0f83027b;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
