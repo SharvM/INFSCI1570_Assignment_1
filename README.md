@@ -2,7 +2,7 @@
 
 ## 1. Website Overview:
 - **Type of Website:** Sneaker Collection
-- ** Website Name:** Sharv's Favorite Sneakers
+- **Website Name:** Sharv's Favorite Sneakers
 - **Purpose:** I created this website to show my interest with sneakers. Additionally, this website acts as assigment 1 for INFSCI1570.
 ## 2. Pages Summary:
 1. **Homepage:** This page serves as the landing page for the entire website.
