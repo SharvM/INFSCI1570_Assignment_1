@@ -31,3 +31,8 @@
 ## 4a. CSS Validation:
 ![Databrick project with Snowfake](CSS_VALIDATION.png)
 ## 5. JavaScript Interactivity:
+1. Navigation Button – Used getElementById and addEventListener on the “More” button (button_two) to redirect users to page_five.html when clicked.
+2. Red Theme Button – Toggles the .red-theme class on the body element while removing any green theme. Also updates the sneaker image to a red-themed picture.
+3. Green Theme Button – Toggles the .green-theme class on the body element while removing any red theme. Also updates the sneaker image to a green-themed picture.
+4. Favorite Shoe Form – Retrieves any previously saved shoe from localStorage and displays it when the page loads. On form submission, prevents the default page reload, saves the new shoe value to localStorage, updates the on-screen text, and clears the input field.
+5. Error Checking – I confirmed in the browser’s web inspector that the code runs with no JavaScript errors on all pages.
