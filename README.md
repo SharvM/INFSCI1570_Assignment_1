@@ -9,6 +9,7 @@
 2. **Page One - Page Four:** These pages display all the sneakers I currently like/possess.
 3. **Page Five (Addtional Information):** This page displays additional sneakers that I own/possess. Furthermore, this page has a form that adds basic interactivity to the website through user interaction. 
 ## 3. HTML Elements:
+1. <head> = 
 ## 3a. HTML Validation:
 ## 4. CSS Design:
 ## 4a. CSS Validation:
