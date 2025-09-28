@@ -18,7 +18,7 @@
 7. h1, h2, p, strong, u, i - Elements like these serve as text-level elements within webpages. Consequently, my website utilizes these elements to enhance the overall appearance of the site. 
 8. a - This element helps create hyperlinks for navigation. On my website, the a tag is used within the nav to move between different pages. 
 ## 3a. HTML Validation:
-
+![Databrick project with Snowfake](HTML_VALIDATION.png)
 ## 4. CSS Design:
 ## 4a. CSS Validation:
 ## 5. JavaScript Interactivity:
