@@ -20,6 +20,14 @@
 ## 3a. HTML Validation:
 ![Databrick project with Snowfake](HTML_VALIDATION.png)
 ## 4. CSS Design:
+1. Flexbox - Used "display: flex" to align and center the contents of the webpage, such as titles, sneaker images, button groups, etc. This helped create a responsive and balanced layout.
+2. Background Color + Color Scheme - Used a consistent color palette for all pages. This helps build a clean and user-friendly website.
+3. Fonts/Text - Imported Google Fonts to move away from the traditional fonts/styles. In doing so, I was able to create a more unique and personalized website.
+4. Navigation & Links - I styled the "a" tags with custom aspects like no underline, larger font sizes, font sizes from Google Fonts, and hover effects for interactivity.
+5. Buttons - I applied various styles to buttons. These styles included matching colors, rounded corners, shadows, etc.
+6. Images - I made some changes to image proportions to make them fit better on the page. For example, I used "object-fit: cover" to maintain the image proportions.
+7. Borders & Shadows - For almost every HTML segment, I applied borders or shadows. For example, I used "border-radius" to create soft, well-rounded corners. On the other hand, I used shadows to help make elements, like images or tiles, pop from the rest of the page. 
+8. Lists - For my lists that outlined details about sneakers, I adjusted the spacing/margins to improve readability. Not to mention, I also chose to style the points as roman numerals. 
 ## 4a. CSS Validation:
 ![Databrick project with Snowfake](CSS_VALIDATION.png)
 ## 5. JavaScript Interactivity:
