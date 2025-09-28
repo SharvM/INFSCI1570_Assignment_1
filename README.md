@@ -21,4 +21,5 @@
 ![Databrick project with Snowfake](HTML_VALIDATION.png)
 ## 4. CSS Design:
 ## 4a. CSS Validation:
+![Databrick project with Snowfake](CSS_VALIDATION.png)
 ## 5. JavaScript Interactivity:
