@@ -30,7 +30,10 @@
 5. Buttons - I applied various styles to buttons. These styles included matching colors, rounded corners, shadows, etc.
 6. Images - I made some changes to image proportions to make them fit better on the page. For example, I used "object-fit: cover" to maintain the image proportions.
 7. Borders & Shadows - For almost every HTML segment, I applied borders or shadows. For example, I used "border-radius" to create soft, well-rounded corners. On the other hand, I used shadows to help make elements, like images or tiles, pop from the rest of the page. 
-8. Lists - For my lists that outlined details about sneakers, I adjusted the spacing/margins to improve readability. Not to mention, I also chose to style the points as roman numerals. 
+8. Lists - For my lists that outlined details about sneakers, I adjusted the spacing/margins to improve readability. Not to mention, I also chose to style the points as roman numerals.
+
+<strong>Element(s) list:</strong>
+display, flex-direction, justify-content, align-items, position, background-color, color, font-family, font-size, font-weight, text-align, text-decoration, border, border-radius, box-shadow, width, height, object-fit, margin, padding, cursor, :hover, .red-theme, .green-theme, .visually-hidden
 ## 4a. CSS Validation:
 ![Databrick project with Snowfake](CSS_VALIDATION.png)
 ## 5. JavaScript Interactivity:
