@@ -17,6 +17,9 @@
 6. img & alt - The img tag adds visuals to a website. So, for my website, the img tag is used to display sneaker images. In terms of the alt tag, it helps provide an appropriate description of the image if the image fails to load. 
 7. h1, h2, p, strong, u, i - Elements like these serve as text-level elements within webpages. Consequently, my website utilizes these elements to enhance the overall appearance of the site. 
 8. a - This element helps create hyperlinks for navigation. On my website, the a tag is used within the nav to move between different pages. 
+
+<strong>Element(s) list:</strong>
+`<head>`,`<header>`,`<main>`,`<footer>`,`<nav>`,`<section>`,`<article>`,`<aside>`,`<table>`,`<thead>`,`<tbody>`,`<tr>`,`<th>`,`<td>`,`<form>`,`<label>`,`<input>`,`<button>`,`<ul>`,`<ol>`,`<li>`,`<img>`,`<h1>`,`<h2>`,`<p>`,`<strong>`,`<u>`,`<i>`,`<a>`
 ## 3a. HTML Validation:
 ![Databrick project with Snowfake](HTML_VALIDATION.png)
 ## 4. CSS Design:
