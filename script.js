@@ -10,7 +10,7 @@ const button1 = document.getElementById("button_one");
 const button3 = document.getElementById("button_three")
 const shoeImage = document.getElementById("image_one"); 
 
-
+// event listener -- change theme to RED
 button1.addEventListener("click", () => {
   document.body.classList.remove("green-theme");
   
@@ -23,6 +23,7 @@ button1.addEventListener("click", () => {
   }
 });
 
+// event listener -- change theme to GREEN
 button3.addEventListener("click", () => {
   document.body.classList.remove("red-theme");
   
